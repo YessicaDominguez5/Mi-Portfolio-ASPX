@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiPortfolioASPX", "MiPortfolioASPX\MiPortfolioASPX.csproj", "{21211E89-BCC1-4D93-97D9-BC3A05131BC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21211E89-BCC1-4D93-97D9-BC3A05131BC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21211E89-BCC1-4D93-97D9-BC3A05131BC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21211E89-BCC1-4D93-97D9-BC3A05131BC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21211E89-BCC1-4D93-97D9-BC3A05131BC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F811F0C-D85A-4E16-A87A-DF7F0853DD72}
+	EndGlobalSection
+EndGlobal

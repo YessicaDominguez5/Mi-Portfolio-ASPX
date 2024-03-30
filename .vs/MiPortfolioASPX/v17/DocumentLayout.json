@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\MiPortfolioASPX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21211E89-BCC1-4D93-97D9-BC3A05131BC5}|MiPortfolioASPX\\MiPortfolioASPX.csproj|c:\\users\\juaniyeppi\\documents\\nivel3maxiprograma\\miportfolioaspx\\miportfolioaspx\\misproyectos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{21211E89-BCC1-4D93-97D9-BC3A05131BC5}|MiPortfolioASPX\\MiPortfolioASPX.csproj|solutionrelative:miportfolioaspx\\misproyectos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21211E89-BCC1-4D93-97D9-BC3A05131BC5}|MiPortfolioASPX\\MiPortfolioASPX.csproj|C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\MiPortfolioASPX\\miportfolioaspx\\contacto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{21211E89-BCC1-4D93-97D9-BC3A05131BC5}|MiPortfolioASPX\\MiPortfolioASPX.csproj|solutionrelative:miportfolioaspx\\contacto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21211E89-BCC1-4D93-97D9-BC3A05131BC5}|MiPortfolioASPX\\MiPortfolioASPX.csproj|C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\MiPortfolioASPX\\miportfolioaspx\\presentacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{21211E89-BCC1-4D93-97D9-BC3A05131BC5}|MiPortfolioASPX\\MiPortfolioASPX.csproj|solutionrelative:miportfolioaspx\\presentacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21211E89-BCC1-4D93-97D9-BC3A05131BC5}|MiPortfolioASPX\\MiPortfolioASPX.csproj|C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\MiPortfolioASPX\\miportfolioaspx\\misestilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{21211E89-BCC1-4D93-97D9-BC3A05131BC5}|MiPortfolioASPX\\MiPortfolioASPX.csproj|solutionrelative:miportfolioaspx\\misestilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21211E89-BCC1-4D93-97D9-BC3A05131BC5}|MiPortfolioASPX\\MiPortfolioASPX.csproj|C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\MiPortfolioASPX\\miportfolioaspx\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{21211E89-BCC1-4D93-97D9-BC3A05131BC5}|MiPortfolioASPX\\MiPortfolioASPX.csproj|solutionrelative:miportfolioaspx\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MisProyectos.aspx",
+              "DocumentMoniker": "C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\MiPortfolioASPX\\MiPortfolioASPX\\MisProyectos.aspx",
+              "RelativeDocumentMoniker": "MiPortfolioASPX\\MisProyectos.aspx",
+              "ToolTip": "C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\MiPortfolioASPX\\MiPortfolioASPX\\MisProyectos.aspx",
+              "RelativeToolTip": "MiPortfolioASPX\\MisProyectos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-28T22:14:00.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contacto.aspx",
+              "DocumentMoniker": "C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\MiPortfolioASPX\\MiPortfolioASPX\\Contacto.aspx",
+              "RelativeDocumentMoniker": "MiPortfolioASPX\\Contacto.aspx",
+              "ToolTip": "C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\MiPortfolioASPX\\MiPortfolioASPX\\Contacto.aspx",
+              "RelativeToolTip": "MiPortfolioASPX\\Contacto.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-28T20:42:02.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Presentacion.aspx",
+              "DocumentMoniker": "C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\MiPortfolioASPX\\MiPortfolioASPX\\Presentacion.aspx",
+              "RelativeDocumentMoniker": "MiPortfolioASPX\\Presentacion.aspx",
+              "ToolTip": "C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\MiPortfolioASPX\\MiPortfolioASPX\\Presentacion.aspx",
+              "RelativeToolTip": "MiPortfolioASPX\\Presentacion.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-28T20:34:46.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MisEstilos.css",
+              "DocumentMoniker": "C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\MiPortfolioASPX\\MiPortfolioASPX\\MisEstilos.css",
+              "RelativeDocumentMoniker": "MiPortfolioASPX\\MisEstilos.css",
+              "ToolTip": "C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\MiPortfolioASPX\\MiPortfolioASPX\\MisEstilos.css",
+              "RelativeToolTip": "MiPortfolioASPX\\MisEstilos.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-28T16:10:43.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\MiPortfolioASPX\\MiPortfolioASPX\\Site1.Master",
+              "RelativeDocumentMoniker": "MiPortfolioASPX\\Site1.Master",
+              "ToolTip": "C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\MiPortfolioASPX\\MiPortfolioASPX\\Site1.Master",
+              "RelativeToolTip": "MiPortfolioASPX\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-28T16:05:09.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

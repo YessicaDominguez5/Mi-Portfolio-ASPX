@@ -1,0 +1,35 @@
+﻿body {
+    background-image: url('fondo.jpg');
+}
+
+.fontMasterPage {
+    color:white;
+    font-family:sans-serif;
+    cursor:pointer;
+    padding-right: 15px;
+}
+.titulo{
+
+    color:white;
+    font-family:'Footlight MT';
+    font-size:xxx-large;
+    border:1px solid white;
+    border-radius: 10px;
+    width:30%;
+    padding:15px;
+  
+}
+.bienvenida{
+
+    color:white;
+    font-family:Candara;
+    font-size:medium;
+}
+.proyectos {
+    width:stretch; 
+    height:fit-content;
+}
+
+.inputEmail{
+    padding-right: 17px;
+}
